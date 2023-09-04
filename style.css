@@ -1,0 +1,2389 @@
+.desktop {
+  position: relative;
+  width: 1440px;
+  height: 5623px;
+  background-color: #030303;
+  overflow: hidden;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1526px;
+  height: 5602px;
+  top: 21px;
+  left: -86px;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1526px;
+  height: 5602px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .vector {
+  position: absolute;
+  width: 1365px;
+  height: 1784px;
+  top: 451px;
+  left: 86px;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 293px;
+  height: 293px;
+  top: 119px;
+  left: 1176px;
+  background-color: #f3b900;
+  border-radius: 146.5px;
+  filter: blur(600px);
+}
+
+.desktop .div {
+  position: absolute;
+  width: 239px;
+  height: 239px;
+  top: 372px;
+  left: 1202px;
+  background-color: #ff2aa1;
+  border-radius: 119.5px;
+  filter: blur(750px);
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 387px;
+  height: 387px;
+  top: 159px;
+  left: 792px;
+  background-color: #100a08;
+  border-radius: 193.5px;
+  filter: blur(600px);
+}
+
+.desktop .img {
+  position: absolute;
+  width: 1238px;
+  height: 1981px;
+  top: 1953px;
+  left: 86px;
+}
+
+.desktop .vector-2 {
+  position: absolute;
+  width: 1428px;
+  height: 1894px;
+  top: 2646px;
+  left: 98px;
+}
+
+.desktop .pattern {
+  position: absolute;
+  width: 926px;
+  height: 722px;
+  top: 0;
+  left: 600px;
+}
+
+.desktop .vector-3 {
+  position: absolute;
+  width: 427px;
+  height: 651px;
+  top: 2603px;
+  left: 1069px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 608px;
+  top: 205px;
+  left: 184px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 70px;
+  letter-spacing: 0.7px;
+  line-height: 91px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  width: 864px;
+  top: 1207px;
+  left: 190px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0.6px;
+  line-height: 80.1px;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 445px;
+  top: 480px;
+  left: 184px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffffb2;
+  font-size: 34px;
+  letter-spacing: 0.34px;
+  line-height: 44.2px;
+}
+
+.desktop .vector-4 {
+  position: absolute;
+  width: 230px;
+  height: 33px;
+  top: 2842px;
+  left: 933px;
+}
+
+.desktop .vector-5 {
+  position: absolute;
+  width: 230px;
+  height: 33px;
+  top: 3516px;
+  left: 273px;
+}
+
+.desktop .explore {
+  position: absolute;
+  width: 225px;
+  height: 47px;
+  top: 559px;
+  left: 201px;
+  border-radius: 48px;
+  background: linear-gradient(
+    180deg,
+    rgb(193.37, 0, 104.42) 0%,
+    rgb(194.64, 3.56, 102.03) 80.73%,
+    rgb(234, 114, 28) 100%
+  );
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  width: 165px;
+  top: 563px;
+  left: 472px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--text-body);
+  font-size: 24px;
+  letter-spacing: 0.24px;
+  line-height: 36px;
+}
+
+.desktop .security-and-fast {
+  position: absolute;
+  width: 1307px;
+  height: 225px;
+  top: 798px;
+  left: 153px;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 799px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .group-wrapper {
+  position: relative;
+  width: 798px;
+  height: 100px;
+  left: 1px;
+  background-image: url(./img/rectangle-85.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-2 {
+  position: relative;
+  width: 724px;
+  height: 56px;
+  top: 22px;
+  left: 43px;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 370px;
+  top: 0;
+  left: 352px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--gray-4);
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 323px;
+  height: 39px;
+  top: 8px;
+  left: 0;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 45px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--text-body);
+  font-size: 28px;
+  letter-spacing: 0.28px;
+  line-height: 39.2px;
+  white-space: nowrap;
+}
+
+.desktop .iconly-bold-lock {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .lock {
+  position: relative;
+  width: 21px;
+  height: 25px;
+  top: 2px;
+  left: 4px;
+  background-image: url(./img/lock.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 799px;
+  height: 100px;
+  top: 125px;
+  left: 508px;
+}
+
+.desktop .div-wrapper {
+  position: relative;
+  width: 798px;
+  height: 100px;
+  left: 1px;
+  background-image: url(./img/rectangle-86.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-4 {
+  position: relative;
+  width: 732px;
+  height: 56px;
+  top: 26px;
+  left: 42px;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 4px;
+  left: 45px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--text-body);
+  font-size: 28px;
+  letter-spacing: 0.28px;
+  line-height: 39.2px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  width: 413px;
+  top: 0;
+  left: 315px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--gray-4);
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  line-height: 28px;
+}
+
+.desktop .iconly-bold-wallet {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 5px;
+  left: 0;
+}
+
+.desktop .wallet {
+  position: relative;
+  width: 25px;
+  height: 22px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/wallet.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 572px;
+  top: 2663px;
+  left: 871px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0.6px;
+  line-height: 84px;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  width: 532px;
+  top: 3353px;
+  left: 202px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0.6px;
+  line-height: 84px;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 532px;
+  top: 2896px;
+  left: 871px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--gray-4);
+  font-size: 26px;
+  letter-spacing: 0.26px;
+  line-height: 36.4px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  width: 559px;
+  top: 3580px;
+  left: 206px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--gray-4);
+  font-size: 26px;
+  letter-spacing: 0.26px;
+  line-height: 36.4px;
+}
+
+.desktop .overlap-group-wrapper {
+  width: 218px;
+  top: 3065px;
+  left: 871px;
+  position: absolute;
+  height: 58px;
+}
+
+.desktop .overlap-2 {
+  position: relative;
+  width: 216px;
+  height: 58px;
+  border-radius: 58px;
+  background: linear-gradient(180deg, rgb(255, 7.44, 141.12) 34.9%, rgba(235, 120, 38, 0) 92.19%);
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 15px;
+  left: 19px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-text);
+  font-size: 22px;
+  letter-spacing: 0.22px;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.desktop .explore-2 {
+  width: 188px;
+  top: 3741px;
+  left: 208px;
+  position: absolute;
+  height: 58px;
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 186px;
+  height: 58px;
+  border-radius: 51px;
+  background: linear-gradient(180deg, rgba(255, 7, 141, 0.79) 0%, rgba(255, 183.6, 0, 0.7) 100%);
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0.22px;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.desktop .explore-3 {
+  width: 205px;
+  top: 3741px;
+  left: 440px;
+  position: absolute;
+  height: 58px;
+}
+
+.desktop .overlap-4 {
+  position: relative;
+  width: 203px;
+  height: 58px;
+  border-radius: 46px;
+  border: 1px solid;
+  border-color: #d5f70a;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  top: 14px;
+  left: 31px;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(234, 114, 28) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 22px;
+  letter-spacing: 0.22px;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.desktop .patern {
+  position: absolute;
+  width: 962px;
+  height: 663px;
+  top: 2596px;
+  left: 0;
+}
+
+.desktop .overlap-5 {
+  position: relative;
+  width: 876px;
+  height: 663px;
+  left: 86px;
+  background-image: url(./img/pattern-2.png);
+  background-size: 100% 100%;
+}
+
+.desktop .michael {
+  position: absolute;
+  width: 252px;
+  height: 348px;
+  top: 202px;
+  left: 160px;
+  background-color: #1b1b21;
+  border-radius: 9.55px;
+  transform: rotate(-9deg);
+  backdrop-filter: blur(9.55px) brightness(100%);
+  -webkit-backdrop-filter: blur(9.55px) brightness(100%);
+}
+
+.desktop .group-5 {
+  position: absolute;
+  width: 222px;
+  height: 222px;
+  top: 15px;
+  left: 15px;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 302px;
+  height: 287px;
+  top: -33px;
+  left: -40px;
+}
+
+.desktop .image {
+  width: 267px;
+  height: 248px;
+  top: 19px;
+  left: 18px;
+  transform: rotate(9deg);
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 64px;
+  height: 34px;
+  top: 40px;
+  left: 183px;
+  transform: rotate(9deg);
+  object-fit: cover;
+}
+
+.desktop .group-6 {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  top: 36px;
+  left: 202px;
+}
+
+.desktop .iconly-bold-heart {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 0;
+  left: 0;
+  transform: rotate(0.04deg);
+  background-image: url(./img/heart.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .heart {
+  position: relative;
+  top: 2px;
+  left: 1px;
+  width: 14px;
+  height: 14px;
+}
+
+.desktop .heart-2 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 14px;
+  height: 14px;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 23px;
+  height: 13px;
+  top: 14px;
+  left: 18px;
+  transform: rotate(9deg);
+  object-fit: cover;
+}
+
+.desktop .group-7 {
+  position: absolute;
+  width: 222px;
+  height: 95px;
+  top: 239px;
+  left: 15px;
+}
+
+.desktop .overlap-6 {
+  position: relative;
+  height: 95px;
+}
+
+.desktop .group-8 {
+  position: absolute;
+  width: 222px;
+  height: 46px;
+  top: 49px;
+  left: 0;
+}
+
+.desktop .group-9 {
+  position: absolute;
+  width: 104px;
+  height: 46px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-15 {
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Medium", Helvetica;
+  color: #ffffff;
+  font-size: 13.4px;
+  letter-spacing: 0.13px;
+  line-height: 17.4px;
+  position: absolute;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  top: 21px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(255, 0, 91.8) 0%, rgb(254.02, 5.34, 88.81) 78.65%, rgb(234, 114, 28) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 19.1px;
+  letter-spacing: 0.19px;
+  line-height: 24.8px;
+  white-space: nowrap;
+}
+
+.desktop .group-10 {
+  position: absolute;
+  width: 106px;
+  height: 40px;
+  top: 3px;
+  left: 118px;
+}
+
+.desktop .overlap-group-3 {
+  position: relative;
+  width: 104px;
+  height: 40px;
+  border-radius: 6.69px;
+  background: linear-gradient(180deg, rgb(255, 0, 91.8) 0%, rgb(254.02, 5.34, 88.81) 78.65%, rgb(234, 114, 28) 100%);
+}
+
+.desktop .text-wrapper-17 {
+  position: absolute;
+  top: 11px;
+  left: 16px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--main-text);
+  font-size: 15.3px;
+  letter-spacing: 0.15px;
+  line-height: 19.9px;
+  white-space: nowrap;
+}
+
+.desktop .group-11 {
+  position: absolute;
+  width: 217px;
+  height: 29px;
+  top: 0;
+  left: 3px;
+}
+
+.desktop .group-12 {
+  width: 98px;
+  height: 29px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .div-wrapper-2 {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  top: 0;
+  left: 0;
+  transform: rotate(0.04deg);
+}
+
+.desktop .time-circle {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  top: 1px;
+  left: 1px;
+}
+
+.desktop .time-circle-2 {
+  position: absolute;
+  width: 15px;
+  height: 14px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-18 {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #eeeeeeb2;
+  font-size: 11.5px;
+  letter-spacing: 0.11px;
+  line-height: 14.9px;
+  white-space: nowrap;
+}
+
+.desktop .group-13 {
+  position: absolute;
+  width: 41px;
+  height: 29px;
+  top: 0;
+  left: 178px;
+}
+
+.desktop .text-wrapper-19 {
+  top: 14px;
+  left: 18px;
+  font-family: "MuseoModerno-Medium", Helvetica;
+  color: #eeeeeeb2;
+  font-size: 11.5px;
+  letter-spacing: 0.11px;
+  line-height: 14.9px;
+  position: absolute;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.desktop .show {
+  position: relative;
+  top: 3px;
+  left: 1px;
+  width: 14px;
+  height: 11px;
+}
+
+.desktop .show-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 14px;
+  height: 11px;
+}
+
+.desktop .vector-6 {
+  position: absolute;
+  width: 216px;
+  height: 35px;
+  top: 23px;
+  left: 2px;
+  transform: rotate(9deg);
+}
+
+.desktop .michael-2 {
+  position: absolute;
+  width: 546px;
+  height: 571px;
+  top: 40px;
+  left: 117px;
+}
+
+.desktop .vector-7 {
+  position: absolute;
+  width: 261px;
+  height: 262px;
+  top: 89px;
+  left: 1250px;
+}
+
+.desktop .fixed {
+  position: absolute;
+  width: 398px;
+  height: 362px;
+  top: 3600px;
+  left: 793px;
+}
+
+.desktop .upload {
+  position: absolute;
+  width: 398px;
+  height: 362px;
+  top: 3433px;
+  left: 1092px;
+}
+
+.desktop .create {
+  position: absolute;
+  width: 398px;
+  height: 362px;
+  top: 3309px;
+  left: 876px;
+}
+
+.desktop .vector-8 {
+  position: absolute;
+  width: 261px;
+  height: 262px;
+  top: 3741px;
+  left: 895px;
+}
+
+.desktop .vector-9 {
+  position: absolute;
+  width: 261px;
+  height: 262px;
+  top: 3216px;
+  left: 842px;
+}
+
+.desktop .vector-10 {
+  position: absolute;
+  width: 261px;
+  height: 262px;
+  top: 3563px;
+  left: 1195px;
+}
+
+.desktop .text-wrapper-20 {
+  position: absolute;
+  width: 256px;
+  top: 5356px;
+  left: 204px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 39.6px;
+}
+
+.desktop .group-14 {
+  position: absolute;
+  width: 97px;
+  height: 210px;
+  top: 5265px;
+  left: 1045px;
+}
+
+.desktop .text-wrapper-21 {
+  position: absolute;
+  top: 66px;
+  left: 0;
+  font-family: "MuseoModerno-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-22 {
+  position: absolute;
+  top: 122px;
+  left: 0;
+  font-family: "MuseoModerno-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-23 {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  font-family: "MuseoModerno-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .group-15 {
+  position: absolute;
+  width: 98px;
+  height: 266px;
+  top: 5265px;
+  left: 1263px;
+}
+
+.desktop .text-wrapper-25 {
+  position: absolute;
+  top: 234px;
+  left: 0;
+  font-family: "MuseoModerno-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  white-space: nowrap;
+}
+
+.desktop .vector-11 {
+  position: absolute;
+  width: 1186px;
+  height: 1647px;
+  top: 3955px;
+  left: 86px;
+}
+
+.desktop .group-16 {
+  position: absolute;
+  width: 1212px;
+  height: 311px;
+  top: 4739px;
+  left: 221px;
+}
+
+.desktop .overlap-7 {
+  position: relative;
+  width: 1208px;
+  height: 311px;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 1208px;
+  height: 311px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-9 {
+  position: absolute;
+  width: 907px;
+  height: 311px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .join-the-community {
+  position: absolute;
+  width: 667px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 55px;
+  letter-spacing: 0.55px;
+  line-height: 77px;
+}
+
+.desktop .group-17 {
+  position: absolute;
+  width: 907px;
+  height: 94px;
+  top: 217px;
+  left: 0;
+}
+
+.desktop .overlap-group-4 {
+  position: relative;
+  width: 905px;
+  height: 94px;
+  background-color: #1b1b21;
+  border-radius: 60px;
+  border: 1px solid;
+  border-color: #863264;
+}
+
+.desktop .text-wrapper-26 {
+  position: absolute;
+  top: 25px;
+  left: 42px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--gray-4);
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  width: 488px;
+  top: 14px;
+  left: 720px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--gray-4);
+  font-size: 26px;
+  letter-spacing: 0.26px;
+  line-height: 36.4px;
+}
+
+.desktop .group-18 {
+  position: absolute;
+  width: 255px;
+  height: 94px;
+  top: 217px;
+  left: 946px;
+}
+
+.desktop .overlap-10 {
+  position: relative;
+  width: 253px;
+  height: 94px;
+  border-radius: 57px;
+  background: linear-gradient(
+    180deg,
+    rgb(252.88, 0, 91.03) 0%,
+    rgb(252.38, 2.97, 89.39) 77.08%,
+    rgb(234, 114, 28) 100%
+  );
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  top: 26px;
+  left: 57px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 42px;
+  white-space: nowrap;
+}
+
+.desktop .group-19 {
+  position: absolute;
+  width: 701px;
+  height: 218px;
+  top: 4544px;
+  left: 470px;
+}
+
+.desktop .group-20 {
+  position: absolute;
+  width: 701px;
+  height: 218px;
+  top: 5020px;
+  left: 470px;
+}
+
+.desktop .vector-12 {
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  top: 4652px;
+  left: 198px;
+}
+
+.desktop .vector-13 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 5087px;
+  left: 198px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 555px;
+  height: 482px;
+  top: 171px;
+  left: 857px;
+}
+
+.desktop .vector-14 {
+  position: absolute;
+  width: 261px;
+  height: 262px;
+  top: 348px;
+  left: 823px;
+}
+
+.desktop .vector-15 {
+  position: absolute;
+  width: 182px;
+  height: 261px;
+  top: 147px;
+  left: 86px;
+}
+
+.desktop .vector-16 {
+  position: absolute;
+  width: 227px;
+  height: 227px;
+  top: 272px;
+  left: 675px;
+}
+
+.desktop .element-2 {
+  position: absolute;
+  width: 633px;
+  height: 633px;
+  top: 20px;
+  left: 838px;
+  object-fit: cover;
+}
+
+.desktop .vector-17 {
+  position: absolute;
+  width: 26px;
+  height: 18px;
+  top: 571px;
+  left: 648px;
+}
+
+.desktop .group-21 {
+  position: absolute;
+  width: 1201px;
+  height: 310px;
+  top: 4094px;
+  left: 206px;
+}
+
+.desktop .overlap-11 {
+  position: relative;
+  height: 310px;
+}
+
+.desktop .group-22 {
+  position: absolute;
+  width: 1201px;
+  height: 310px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  width: 404px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  letter-spacing: 0.6px;
+  line-height: 84px;
+}
+
+.desktop .group-23 {
+  position: absolute;
+  width: 1199px;
+  height: 181px;
+  top: 129px;
+  left: 0;
+}
+
+.desktop .group-24 {
+  position: absolute;
+  width: 372px;
+  height: 181px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-12 {
+  position: relative;
+  width: 370px;
+  height: 181px;
+  background-color: #1b1b21;
+  border-radius: 12.7px;
+}
+
+.desktop .overlap-13 {
+  position: absolute;
+  width: 352px;
+  height: 104px;
+  top: 3px;
+  left: 4px;
+}
+
+.desktop .image-2 {
+  position: absolute;
+  width: 343px;
+  height: 93px;
+  top: 11px;
+  left: 10px;
+  object-fit: cover;
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 0;
+  left: 0;
+  background-color: #1b1b21;
+  border-radius: 33.87px;
+}
+
+.desktop .jhonson {
+  position: absolute;
+  width: 51px;
+  height: 50px;
+  top: 10px;
+  left: 9px;
+  border-radius: 105.85px;
+  background-image: url(./img/jhonson.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-25 {
+  position: absolute;
+  width: 118px;
+  height: 54px;
+  top: 115px;
+  left: 18px;
+}
+
+.desktop .overlap-group-5 {
+  position: relative;
+  width: 114px;
+  height: 54px;
+}
+
+.desktop .text-wrapper-30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25.4px;
+  letter-spacing: 0.25px;
+  line-height: 35.6px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-31 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: var(--gray-4);
+  font-size: 14.8px;
+  letter-spacing: 0.15px;
+  line-height: 20.7px;
+  white-space: nowrap;
+}
+
+.desktop .overlap-14 {
+  position: absolute;
+  width: 167px;
+  height: 40px;
+  top: 127px;
+  left: 189px;
+  border-radius: 44px;
+  background: linear-gradient(
+    180deg,
+    rgb(252.88, 0, 91.03) 0%,
+    rgb(252.38, 2.97, 89.39) 77.08%,
+    rgb(234, 114, 28) 100%
+  );
+}
+
+.desktop .text-wrapper-32 {
+  position: absolute;
+  top: 6px;
+  left: 51px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 19.1px;
+  letter-spacing: 0.19px;
+  line-height: 26.7px;
+  white-space: nowrap;
+}
+
+.desktop .group-26 {
+  position: absolute;
+  width: 372px;
+  height: 181px;
+  top: 0;
+  left: 415px;
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .alexander {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 10px;
+  left: 10px;
+  background-color: #ffffff;
+  border-radius: 105.85px;
+  background-image: url(./img/image-33.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-27 {
+  position: absolute;
+  width: 101px;
+  height: 54px;
+  top: 115px;
+  left: 18px;
+}
+
+.desktop .overlap-group-6 {
+  position: relative;
+  width: 97px;
+  height: 54px;
+}
+
+.desktop .overlap-15 {
+  position: absolute;
+  width: 167px;
+  height: 40px;
+  top: 127px;
+  left: 189px;
+  border-radius: 34px;
+  border: 1.06px solid;
+  border-color: #863264;
+}
+
+.desktop .text-wrapper-33 {
+  position: absolute;
+  top: 6px;
+  left: 37px;
+  background: linear-gradient(
+    180deg,
+    rgb(252.88, 0, 91.03) 0%,
+    rgb(252.38, 2.97, 89.39) 77.08%,
+    rgb(234, 114, 28) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 18px;
+  letter-spacing: 0.18px;
+  line-height: 25.2px;
+  white-space: nowrap;
+}
+
+.desktop .group-28 {
+  position: absolute;
+  width: 372px;
+  height: 181px;
+  top: 0;
+  left: 829px;
+}
+
+.desktop .john-ali {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 10px;
+  left: 10px;
+  background-color: #ffffff;
+  border-radius: 105.85px;
+  background-image: url(./img/image-34.png);
+  background-size: 100% 100%;
+}
+
+.desktop .group-29 {
+  position: absolute;
+  width: 77px;
+  height: 54px;
+  top: 115px;
+  left: 18px;
+}
+
+.desktop .overlap-group-7 {
+  position: relative;
+  width: 73px;
+  height: 54px;
+}
+
+.desktop .overlap-16 {
+  position: absolute;
+  width: 167px;
+  height: 40px;
+  top: 127px;
+  left: 189px;
+  border-radius: 26px;
+  border: 1.06px solid;
+  border-color: #ed8338;
+}
+
+.desktop .vuesax-bold-gallery {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 177px;
+  left: 1003px;
+}
+
+.desktop .group-30 {
+  position: absolute;
+  width: 104px;
+  height: 47px;
+  top: 5px;
+  left: 1097px;
+}
+
+.desktop .overlap-17 {
+  position: relative;
+  height: 47px;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 104px;
+  height: 40px;
+  top: 7px;
+  left: 0;
+  border-radius: 26px;
+  border: 1.06px solid;
+  border-color: #ed8338cc;
+}
+
+.desktop .vector-18 {
+  position: absolute;
+  width: 26px;
+  height: 18px;
+  top: 0;
+  left: 60px;
+}
+
+.desktop .vector-19 {
+  position: absolute;
+  width: 26px;
+  height: 18px;
+  top: 0;
+  left: 18px;
+}
+
+.desktop .frame {
+  top: 1342px;
+  left: 207px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-18 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18-5.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-31 {
+  position: absolute;
+  width: 319px;
+  height: 319px;
+  top: 22px;
+  left: 16px;
+  background-image: url(./img/image-18-7.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-32 {
+  position: absolute;
+  width: 319px;
+  height: 66px;
+  top: 414px;
+  left: 16px;
+}
+
+.desktop .group-33 {
+  width: 143px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 19.2px;
+  letter-spacing: 0.19px;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-35 {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 91.8) 0%,
+    rgb(254.56, 2.38, 90.47) 61.46%,
+    rgb(254.56, 2.38, 90.47) 73.44%,
+    rgb(254.56, 2.38, 90.47) 84.38%,
+    rgb(234, 114, 28) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 27.5px;
+  letter-spacing: 0.27px;
+  line-height: 35.7px;
+  white-space: nowrap;
+}
+
+.desktop .group-34 {
+  position: absolute;
+  width: 152px;
+  height: 58px;
+  top: 4px;
+  left: 169px;
+}
+
+.desktop .overlap-group-8 {
+  position: relative;
+  width: 150px;
+  height: 58px;
+  border-radius: 40px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 0, 91.8) 0%,
+    rgb(254.56, 2.38, 90.47) 61.46%,
+    rgb(254.56, 2.38, 90.47) 73.44%,
+    rgb(254.56, 2.38, 90.47) 84.38%,
+    rgb(234, 114, 28) 100%
+  );
+}
+
+.desktop .text-wrapper-36 {
+  position: absolute;
+  top: 14px;
+  left: 23px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0.22px;
+  line-height: 28.6px;
+  white-space: nowrap;
+}
+
+.desktop .group-35 {
+  position: absolute;
+  width: 317px;
+  height: 26px;
+  top: 363px;
+  left: 17px;
+}
+
+.desktop .overlap-19 {
+  position: absolute;
+  width: 287px;
+  height: 25px;
+  top: 0;
+  left: 30px;
+}
+
+.desktop .heart-wrapper {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 156px;
+}
+
+.desktop .heart-3 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/heart-4.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-36 {
+  position: absolute;
+  width: 287px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-9 {
+  position: relative;
+  width: 293px;
+  height: 25px;
+}
+
+.desktop .group-37 {
+  position: absolute;
+  width: 293px;
+  height: 21px;
+  top: 3px;
+  left: 0;
+}
+
+.desktop .text-wrapper-37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffffdb;
+  font-size: 16.5px;
+  letter-spacing: 0.16px;
+  line-height: 21.4px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-38 {
+  position: absolute;
+  top: 0;
+  left: 255px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffffdb;
+  font-size: 16.5px;
+  letter-spacing: 0.16px;
+  line-height: 21.4px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-39 {
+  top: 0;
+  left: 185px;
+  font-family: "Montserrat-Medium", Helvetica;
+  color: #ffffffdb;
+  font-size: 16.5px;
+  letter-spacing: 0.16px;
+  line-height: 21.4px;
+  position: absolute;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.desktop .iconly-bold-show {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 226px;
+}
+
+.desktop .show-3 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show-5.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .iconly-bold-time-wrapper {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 1px;
+  left: 0;
+}
+
+.desktop .iconly-bold-time {
+  height: 25px;
+}
+
+.desktop .time-circle-3 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle-5.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .vector-20 {
+  position: absolute;
+  width: 347px;
+  height: 1px;
+  top: 401px;
+  left: 2px;
+}
+
+.desktop .frame-2 {
+  top: 1342px;
+  left: 624px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-20 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18-11.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .overlap-21 {
+  position: absolute;
+  width: 319px;
+  height: 367px;
+  top: 22px;
+  left: 16px;
+}
+
+.desktop .group-38 {
+  position: absolute;
+  width: 319px;
+  height: 366px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .image-3 {
+  width: 319px;
+  height: 319px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .group-39 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 341px;
+  left: 186px;
+}
+
+.desktop .group-40 {
+  width: 25px;
+  height: 25px;
+  top: 341px;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .group-41 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 341px;
+  left: 256px;
+}
+
+.desktop .group-42 {
+  position: absolute;
+  width: 317px;
+  height: 26px;
+  top: 341px;
+  left: 1px;
+}
+
+.desktop .heart-4 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/heart-2.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .show-4 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show-6.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .time-circle-4 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle-7.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-43 {
+  width: 121px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .frame-3 {
+  top: 1903px;
+  left: 207px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-22 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-44 {
+  position: absolute;
+  width: 280px;
+  height: 25px;
+  top: 341px;
+  left: 0;
+}
+
+.desktop .group-45 {
+  width: 25px;
+  height: 25px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.desktop .group-46 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 256px;
+}
+
+.desktop .group-47 {
+  position: absolute;
+  width: 312px;
+  height: 26px;
+  top: 341px;
+  left: 1px;
+}
+
+.desktop .overlap-23 {
+  position: absolute;
+  width: 282px;
+  height: 25px;
+  top: 0;
+  left: 30px;
+}
+
+.desktop .heart-5 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/heart-3.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-48 {
+  position: absolute;
+  width: 282px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-10 {
+  position: relative;
+  width: 288px;
+  height: 25px;
+}
+
+.desktop .group-49 {
+  width: 288px;
+  position: absolute;
+  height: 21px;
+  top: 3px;
+  left: 0;
+}
+
+.desktop .show-5 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show-2.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .time-circle-5 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-50 {
+  width: 145px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .frame-4 {
+  top: 1903px;
+  left: 1041px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-24 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18-6.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-51 {
+  position: absolute;
+  width: 318px;
+  height: 26px;
+  top: 341px;
+  left: 1px;
+}
+
+.desktop .overlap-25 {
+  position: absolute;
+  width: 288px;
+  height: 25px;
+  top: 0;
+  left: 30px;
+}
+
+.desktop .heart-6 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/heart.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-52 {
+  position: absolute;
+  width: 288px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-11 {
+  position: relative;
+  width: 294px;
+  height: 25px;
+}
+
+.desktop .group-53 {
+  width: 294px;
+  position: absolute;
+  height: 21px;
+  top: 3px;
+  left: 0;
+}
+
+.desktop .show-6 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show-3.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .time-circle-6 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle-6.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-54 {
+  width: 147px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .frame-5 {
+  top: 1342px;
+  left: 1043px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-26 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18-4.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-55 {
+  position: absolute;
+  width: 319px;
+  height: 319px;
+  top: 22px;
+  left: 16px;
+  background-image: url(./img/image-18-2.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-56 {
+  width: 86px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .heart-7 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/heart-6.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .show-7 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show-7.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .time-circle-7 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle-4.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .frame-6 {
+  top: 1903px;
+  left: 624px;
+  position: absolute;
+  width: 363px;
+  height: 500px;
+  background-color: #1b1b21;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1.2px solid;
+  border-color: #ffffff0f;
+}
+
+.desktop .overlap-27 {
+  position: relative;
+  width: 357px;
+  height: 500px;
+  left: 6px;
+  background-image: url(./img/image-18-9.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-57 {
+  position: absolute;
+  width: 319px;
+  height: 319px;
+  top: 22px;
+  left: 16px;
+  background-image: url(./img/image-18-10.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.desktop .group-58 {
+  width: 137px;
+  position: absolute;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .group-59 {
+  position: absolute;
+  width: 314px;
+  height: 26px;
+  top: 363px;
+  left: 17px;
+}
+
+.desktop .overlap-28 {
+  position: absolute;
+  width: 284px;
+  height: 25px;
+  top: 0;
+  left: 30px;
+}
+
+.desktop .heart-8 {
+  position: relative;
+  width: 21px;
+  height: 20px;
+  top: 3px;
+  left: 2px;
+  background-image: url(./img/image.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .group-60 {
+  position: absolute;
+  width: 284px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-12 {
+  position: relative;
+  width: 290px;
+  height: 25px;
+}
+
+.desktop .group-61 {
+  width: 290px;
+  position: absolute;
+  height: 21px;
+  top: 3px;
+  left: 0;
+}
+
+.desktop .show-8 {
+  position: relative;
+  width: 21px;
+  height: 16px;
+  top: 4px;
+  left: 2px;
+  background-image: url(./img/show.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .time-circle-8 {
+  position: relative;
+  width: 21px;
+  height: 21px;
+  top: 2px;
+  left: 2px;
+  background-image: url(./img/time-circle-2.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .nav-wrapper {
+  position: absolute;
+  width: 162px;
+  height: 59px;
+  top: 6px;
+  left: 1298px;
+}
+
+.desktop .nav {
+  height: 59px;
+}
+
+.desktop .navbar {
+  width: 162px;
+  height: 59px;
+}
+
+.desktop .home-dll {
+  width: 164px;
+  height: 59px;
+}
+
+.desktop .overlap-group-13 {
+  position: relative;
+  width: 162px;
+  height: 59px;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 162px;
+  height: 36px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff26;
+  border-radius: 21px;
+  border: 0.8px solid;
+  border-color: #ffffff14;
+  box-shadow: 0px 4px 12px #00000026;
+  backdrop-filter: blur(60px) brightness(100%);
+  -webkit-backdrop-filter: blur(60px) brightness(100%);
+}
+
+.desktop .text-wrapper-40 {
+  position: absolute;
+  width: 111px;
+  top: 4px;
+  left: 26px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0.18px;
+  line-height: 25.2px;
+}
+
+.desktop .text-wrapper-41 {
+  position: absolute;
+  top: 563px;
+  left: 212px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.24px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .vector-21 {
+  position: absolute;
+  width: 108px;
+  height: 38px;
+  top: 2703px;
+  left: 1205px;
+}
+
+.desktop .logo-png {
+  width: 175px;
+  height: 139px;
+  top: 5222px;
+  left: 215px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .vector-22 {
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  top: 4652px;
+  left: 1406px;
+}
+
+.desktop .vector-23 {
+  position: absolute;
+  width: 42px;
+  height: 41px;
+  top: 5087px;
+  left: 1406px;
+}
+
+.desktop .logo-png-2 {
+  width: 133px;
+  height: 107px;
+  top: 6px;
+  left: 170px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .ellipse-5 {
+  position: absolute;
+  width: 512px;
+  height: 507px;
+  top: 2995px;
+  left: 1524px;
+}
